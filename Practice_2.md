@@ -14,7 +14,8 @@
 pip show matplotlib
 ```
 
-![Скриншот 1. Результат работы программы](/images/prac2/Задание%201.png)
+![image](https://github.com/user-attachments/assets/a46e7c2a-97b1-4b1d-921b-7a6ba62c0f19)
+
 
 Для установки пакеты напрямую можно скачать архив с пакетом или склонировать его с помощью git, а затем установить с помощью setup.py
 
