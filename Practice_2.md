@@ -27,7 +27,7 @@ pip show matplotlib
 npm show express
 ```
 
-![Скриншот 2. Результат работы программы](/images/prac2/Задание%202.png)
+![image](https://github.com/user-attachments/assets/bc8ba493-bd9b-4b6f-acd4-2814c35352a2)
 
 Для установки пакета напрямую надо также скачать либо склонировать пакет, затем использовать npm install.
 
@@ -52,9 +52,11 @@ digraph MatplotlibDependencies {
 }
 ```
 
-![Скриншот 3. Граф](/images/prac2/graphviz1.png)
+![image](https://github.com/user-attachments/assets/7819244f-b3ee-4fe0-a0bb-414aa17f4732)
 
-![Скриншот 3. Граф](/images/prac2/graphviz2.png)
+
+![image](https://github.com/user-attachments/assets/45f7440e-3b6f-40d2-a0b4-e4f0f5f606da)
+
 
 ## Задание 4
 
@@ -85,7 +87,8 @@ output ["Ticket: \(nums)\n"];
 
 Решить на MiniZinc задачу о зависимостях пакетов для рисунка, приведенного ниже.
 
-![Скриншот 5. Зависимости](/images/prac2/depend1.png)
+![image](https://github.com/user-attachments/assets/d1ce8533-08ed-429f-a963-73860728a51e)
+
 
 ## Задание 6
 
@@ -138,4 +141,5 @@ output
 ];
 ```
 
-![Скриншот 6. результат работы программы](/images/prac2/Задание%206.png)
+![image](https://github.com/user-attachments/assets/65d13fb6-e83a-460e-80ea-0f69cd415801)
+
