@@ -1,0 +1,6 @@
+{
+  "pathToVisualizer": "/usr/local/bin/mermaid-cli",
+  "packageName": "com.example:my-package:1.0.0",
+  "maxDepth": 3,
+  "repositoryUrl": "https://repo.maven.apache.org/maven2"
+}
